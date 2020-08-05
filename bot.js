@@ -29,7 +29,9 @@ const pandoras = [
     "Vou esquentar a água aqui peraí",
     "Porra, essa boca no bot também viado",
     "É o cheiro da camomila",
-    "Alou"
+    "Alou",
+    "Bota aí sanduíche Beirute",
+    "JÁ VOU"
 ]
 
 const johns = ["Essa idade fazendo isso é mole", "Foda é quando você sofre um acidente e o médico tem que rasgar a roupa"]
