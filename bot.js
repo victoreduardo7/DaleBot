@@ -28,7 +28,8 @@ const pandoras = [
     "Não consegue ficar um segundo sério, porra",
     "Vou esquentar a água aqui peraí",
     "Porra, essa boca no bot também viado",
-    "É o cheiro da camomila"
+    "É o cheiro da camomila",
+    "Alou"
 ]
 
 const johns = ["Essa idade fazendo isso é mole"]
