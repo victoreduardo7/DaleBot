@@ -32,7 +32,7 @@ const pandoras = [
     "Alou"
 ]
 
-const johns = ["Essa idade fazendo isso é mole"]
+const johns = ["Essa idade fazendo isso é mole", "Foda é quando você sofre um acidente e o médico tem que rasgar a roupa"]
 
 class DaleBabyBot {
     get authToken() {
