@@ -1,9 +1,9 @@
 const Discord = require('discord.js');
-const DaleBabyBot = require('./bot.js');
+const BotManager = require('./bots/bot-manager.js');
 
 // Initialize Discord Bot
 const client = new Discord.Client();
-const bot = new DaleBabyBot();
+const bot = new BotManager();
 
 client.on('ready', bot.handleStart);
 client.on('message', (message) => {
