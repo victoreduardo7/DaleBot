@@ -26,7 +26,10 @@ class BabyBot extends PersonBot {
             "A criança vestida de Cinderela. Se não for aniversario dela vai ser muito esquisito",
             "Não acredito em aniversário, tem que merecer pra ganhar o biscoitinho do Scooby",
             "Impressão minha ou Sidney Magal parece a Dilma?",
-            "A floresta Snoopy Dog aí"
+            "A floresta Snoopy Dog aí",
+            "Foi o Igor ou foi o bot que ralou?",
+            "Vamos ver quantas vezes o Igor vai me insultar nesse filme",
+            "Eu tô apreciando o filme, Igor"
         ];
     }
 

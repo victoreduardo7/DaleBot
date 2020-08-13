@@ -11,10 +11,6 @@ class VictorBot extends PersonBot {
         return "victor"
     }
 
-    getImage() {
-        return "https://cdn.discordapp.com/avatars/273241024430866432/1d142a358621618a3978a839ae3d1907.png"
-    }
-
     getName() {
         return "Victor Eduardo"
     }

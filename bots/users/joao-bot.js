@@ -12,11 +12,7 @@ class JoaoBot extends PersonBot {
     getCommandIdentifier() {
         return "joao"
     }
-
-    getImage() {
-        return "https://cdn.discordapp.com/avatars/254705868359204864/f778356c8411921d42b38112f7ec678a.png"
-    }
-
+    
     getName() {
         return "JoaoV"
     }

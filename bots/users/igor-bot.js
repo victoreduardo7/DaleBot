@@ -34,10 +34,6 @@ class IgorBot extends PersonBot {
         return "rafa"
     }
 
-    getImage() {
-        return "https://cdn.discordapp.com/avatars/279408177202593802/2593e5831ce2165aab13697ebe97cbb3.png?"
-    }
-
     getName() {
         return "Koffing"
     }
