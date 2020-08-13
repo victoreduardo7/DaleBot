@@ -21,8 +21,9 @@ class BotManager {
         return process.env.DISCORD_AUTH_TOKEN
     }
 
-    handleStart() {
+    handleStart(client) {
         console.log('Connected');
+        client.user.setAvatar('./resources/img/profile-image.jpeg');
     }
 
     handleMessage(message, client) {
@@ -35,7 +36,7 @@ class BotManager {
             const cmd = args[0];
 
             args = args.splice(1);
-
+            console.log(cmd);
             switch (cmd) {
                 case babyBot.getCommandIdentifier():
                     babyBot.sendRandomMessage(client, message, args);

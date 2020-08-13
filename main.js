@@ -5,7 +5,10 @@ const BotManager = require('./bots/bot-manager.js');
 const client = new Discord.Client();
 const bot = new BotManager();
 
-client.on('ready', bot.handleStart);
+client.on('ready', () => {
+    bot.handleStart(client);
+});
+
 client.on('message', (message) => {
     bot.handleMessage(message, client);
 });

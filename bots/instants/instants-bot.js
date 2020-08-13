@@ -1,4 +1,5 @@
 const Bot = require('../bot.js');
+const request = require("request");
 
 class InstantsBot extends Bot {
     getCommandIdentifier() {
@@ -14,10 +15,14 @@ class InstantsBot extends Bot {
         if (query == null) {
             return
         }
+        console.log(query);
+
+        var url = "https://www.myinstants.com/search/?name=" + query.split(" ").join("+");
+
+        console.log(url);
 
         var that = this;
-        var request = require("request");
-        request({ uri: "https://www.myinstants.com/search/?name=" + query },
+        request({ uri: url },
             function (error, response, body) {
                 that.parseHTMLfirstResult(body, message);
             }
