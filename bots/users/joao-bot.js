@@ -5,7 +5,9 @@ class JoaoBot extends PersonBot {
         return [
             "Essa idade fazendo isso é mole", 
             "Foda é quando você sofre um acidente e o médico tem que rasgar a roupa",
-            "esse dai conhece varios paus"
+            "esse dai conhece varios paus",
+            "Gostei desse filme aí que ele coloca o nome dos caras de uma forma diferente",
+            "Tá misturando o antigo com o passado"
         ];
     }
 

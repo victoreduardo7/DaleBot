@@ -26,7 +26,10 @@ class IgorBot extends PersonBot {
             "Que nem o nosso pequeno sexo",
             "A única frase que prestei atenção foi almoco a 1 e janta as 7 e meia",
             "Depois da guerra voce bota o piru ate na boquinha da arma",
-            "Vai tomar no cu Igor"
+            "Vai tomar no cu Igor",
+            "Vou te embutir que nem uma linguiça",
+            "Vou chupar teu cu",
+            "Pesquisa Sabrina Sato e clica Estou com Sorte"
         ];
     }
 

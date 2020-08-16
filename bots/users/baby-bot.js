@@ -29,7 +29,14 @@ class BabyBot extends PersonBot {
             "A floresta Snoopy Dog aí",
             "Foi o Igor ou foi o bot que ralou?",
             "Vamos ver quantas vezes o Igor vai me insultar nesse filme",
-            "Eu tô apreciando o filme, Igor"
+            "Eu tô apreciando o filme, Igor",
+            "Todo mundo aqui paga Netflix, né?",
+            "Essa aí não é frase minha. É do governo",
+            "Já comi pão do Subway maior",
+            "É. Vamos nessa",
+            "Eu to sugando",
+            "Deixou o cara com gostinho de quero mais",
+            "Sobrou a MILF ali"
         ];
     }
 

@@ -62,3 +62,8 @@ class BotManager {
 }
 
 module.exports = BotManager
+
+
+
+// Github add {cmd} {frase}
+
