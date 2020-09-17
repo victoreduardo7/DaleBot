@@ -29,7 +29,13 @@ class IgorBot extends PersonBot {
             "Vai tomar no cu Igor",
             "Vou te embutir que nem uma linguiça",
             "Vou chupar teu cu",
-            "Pesquisa Sabrina Sato e clica Estou com Sorte"
+            "Pesquisa Sabrina Sato e clica Estou com Sorte",
+            "Porra eu to falando pra caralho, não acredito que to mutado",
+            "Vou spamar o bot, cuzao",
+            "Arrombado",
+            "Será que se esquentar ele fica molinho?",
+            "Eles dão uma salgadela no malaquias",
+            "Eu gosto de grávidas"
         ];
     }
 

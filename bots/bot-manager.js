@@ -13,7 +13,7 @@ var victorBot = new VictorBot();
 var joaoBot = new JoaoBot();
 
 var instantsBot = new InstantsBot();
-
+// Comentário Sev: "O Batman"
 class BotManager {
 
     get authToken() {

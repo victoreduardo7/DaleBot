@@ -8,7 +8,10 @@ class JoaoBot extends PersonBot {
             "esse dai conhece varios paus",
             "Gostei desse filme aí que ele coloca o nome dos caras de uma forma diferente",
             "Tá misturando o antigo com o passado",
-            "Ó o policial travesso"
+            "Ó o policial travesso",
+            "Deixa eu falar, eu quero falar, abaixo a ditadura",
+            "Dale cigarrinho. É o pão com manteiga dela",
+            "Olha o mapa tático"
         ];
     }
 

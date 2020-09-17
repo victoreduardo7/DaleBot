@@ -36,7 +36,13 @@ class BabyBot extends PersonBot {
             "É. Vamos nessa",
             "Eu to sugando",
             "Deixou o cara com gostinho de quero mais",
-            "Sobrou a MILF ali"
+            "Sobrou a MILF ali",
+            "Macho racista",
+            "Essa mina ta na disney já",
+            "Toma piranha",
+            "Essa aí ta facilitando demais",
+            "Foi comprar uma foda... Uma soda",
+            "Balança o mouse aqui pra ver"
         ];
     }
 
